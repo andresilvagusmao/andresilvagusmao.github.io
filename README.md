@@ -1,2 +1,2 @@
-# Presentation
-This repository contains the presentation page for André Silva Gusmão
+# André Silva Gusmão
+Software engineer.
